@@ -6,7 +6,7 @@
 
 <!-- ABOUT ME SECTION -->
 <h2>About Me</h2>
-  <p>I’m a cloud engineer focused on building secure, scalable solutions in Azure. I enjoy working with stakeholders to understand their needs and turning those into real, usable systems—from design through deployment.
+  <p>I’m a cloud solutions engineer focused on building secure, scalable solutions in Azure. I enjoy working with stakeholders to understand their needs and turning those into real, usable systems—from design through deployment.
     I’m especially passionate about automation and infrastructure as code, creating solutions that are efficient, repeatable, and built to last.
     
   Currently building projects and continuing to grow my cloud skills.
